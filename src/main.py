@@ -3,3 +3,4 @@
 2023-11-21 guard against None
 2023-11-25 pagination fix
 2023-12-01 dockerfile
+2023-12-05 add retry on 429
