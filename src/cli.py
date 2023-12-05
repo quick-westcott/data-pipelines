@@ -4,3 +4,4 @@
 2023-11-15 add retry on 429
 2023-11-29 split the fetcher out
 2023-12-05 typo
+2023-12-05 handle empty response
