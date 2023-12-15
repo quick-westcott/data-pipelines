@@ -3,3 +3,4 @@
 2023-11-13 cleanup dead code
 2023-11-16 guard against None
 2023-12-05 split the fetcher out
+2023-12-15 readme
