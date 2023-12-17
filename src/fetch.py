@@ -5,3 +5,4 @@
 2023-12-01 small perf pass
 2023-12-10 revert
 2023-12-15 bump deps
+2023-12-17 cleanup dead code
