@@ -7,3 +7,4 @@
 2023-12-15 log the raw payload
 2023-12-17 typeshed
 2023-12-17 typo
+2023-12-19 split the fetcher out
