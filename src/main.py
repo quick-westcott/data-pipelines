@@ -4,3 +4,4 @@
 2023-11-25 pagination fix
 2023-12-01 dockerfile
 2023-12-05 add retry on 429
+2023-12-23 typo
