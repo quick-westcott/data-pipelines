@@ -5,3 +5,4 @@
 2023-12-01 dockerfile
 2023-12-05 add retry on 429
 2023-12-23 typo
+2023-12-24 guard against None
