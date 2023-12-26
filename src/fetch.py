@@ -6,3 +6,4 @@
 2023-12-10 revert
 2023-12-15 bump deps
 2023-12-17 cleanup dead code
+2023-12-26 cache the lookups
