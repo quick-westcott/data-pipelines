@@ -10,3 +10,4 @@
 2023-12-19 split the fetcher out
 2023-12-19 add tests
 2024-01-16 fix timezone bug
+2024-01-16 backoff on failure
