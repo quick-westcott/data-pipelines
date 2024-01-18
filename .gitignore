@@ -8,3 +8,4 @@
 2024-01-16 reduce noise
 2024-01-16 add retry on 429
 2024-01-18 wire up queue
+2024-01-18 refactor parser
