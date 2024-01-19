@@ -8,3 +8,4 @@
 2023-12-17 cleanup dead code
 2023-12-26 cache the lookups
 2024-01-19 add tests
+2024-01-19 backoff on failure
