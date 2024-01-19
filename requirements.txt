@@ -7,3 +7,4 @@
 2023-12-17 small perf pass
 2023-12-17 typeshed
 2023-12-21 wip 2
+2024-01-19 move config to env
