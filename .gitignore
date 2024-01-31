@@ -11,3 +11,4 @@
 2024-01-18 refactor parser
 2024-01-19 backoff on failure
 2024-01-28 dockerfile
+2024-01-31 add tests
