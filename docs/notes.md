@@ -8,3 +8,4 @@
 2024-01-20 wip 2
 2024-01-20 reduce noise
 2024-02-01 typeshed
+2024-02-01 move config to env
