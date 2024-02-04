@@ -9,3 +9,4 @@
 2023-12-21 refactor parser
 2024-01-20 typeshed
 2024-02-01 move config to env
+2024-02-04 pagination fix
