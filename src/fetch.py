@@ -12,3 +12,4 @@
 2024-01-20 hotfix
 2024-02-03 dockerfile
 2024-02-04 pagination fix
+2024-02-06 add cli flag
