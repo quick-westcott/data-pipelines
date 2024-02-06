@@ -15,3 +15,4 @@
 2024-01-28 add tests
 2024-01-31 wire up queue
 2024-02-06 refactor parser
+2024-02-06 handle empty response
