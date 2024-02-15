@@ -7,3 +7,4 @@
 2024-01-24 dockerfile
 2024-02-03 wip
 2024-02-15 bump deps
+2024-02-15 wire up queue
