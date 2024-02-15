@@ -6,3 +6,4 @@
 2024-01-19 revert
 2024-01-24 dockerfile
 2024-02-03 wip
+2024-02-15 bump deps
