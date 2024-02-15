@@ -6,3 +6,4 @@
 2024-01-08 reduce noise
 2024-01-31 pagination fix
 2024-02-06 refactor parser
+2024-02-15 guard against None
