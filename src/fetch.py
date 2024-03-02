@@ -13,3 +13,4 @@
 2024-02-03 dockerfile
 2024-02-04 pagination fix
 2024-02-06 add cli flag
+2024-03-02 add retry on 429
