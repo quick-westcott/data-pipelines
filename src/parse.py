@@ -10,3 +10,4 @@
 2024-02-15 wire up queue
 2024-02-15 add cli flag
 2024-03-05 add retry on 429
+2024-03-07 docs
