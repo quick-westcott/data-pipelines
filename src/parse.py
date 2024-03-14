@@ -12,3 +12,4 @@
 2024-03-05 add retry on 429
 2024-03-07 docs
 2024-03-08 typeshed
+2024-03-14 move config to env
