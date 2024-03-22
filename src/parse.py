@@ -14,3 +14,4 @@
 2024-03-08 typeshed
 2024-03-14 move config to env
 2024-03-14 add tests
+2024-03-22 cache the lookups
