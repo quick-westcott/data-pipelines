@@ -20,3 +20,4 @@
 2024-03-10 wip 2
 2024-03-10 add retry on 429
 2024-03-14 cache the lookups
+2024-03-30 log the raw payload
