@@ -16,3 +16,4 @@
 2024-03-02 add retry on 429
 2024-03-08 wip
 2024-03-25 guard against None
+2024-04-08 add tests
