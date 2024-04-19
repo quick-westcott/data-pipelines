@@ -23,3 +23,4 @@
 2024-04-08 revert
 2024-04-17 add cli flag
 2024-04-19 revert
+2024-04-19 cleanup dead code
