@@ -19,3 +19,4 @@
 2024-04-11 hotfix
 2024-04-19 add retry on 429
 2024-04-23 bump deps
+2024-04-25 cache the lookups
