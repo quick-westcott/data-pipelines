@@ -20,3 +20,4 @@
 2024-04-19 add retry on 429
 2024-04-23 bump deps
 2024-04-25 cache the lookups
+2024-04-26 cleanup dead code
