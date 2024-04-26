@@ -20,3 +20,4 @@
 2024-03-05 split the fetcher out
 2024-03-16 wire up queue
 2024-04-18 add cli flag
+2024-04-26 small perf pass
