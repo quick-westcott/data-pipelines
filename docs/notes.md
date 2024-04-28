@@ -20,3 +20,4 @@
 2024-03-22 log the raw payload
 2024-03-30 add cli flag
 2024-03-30 wip
+2024-04-28 bump deps
