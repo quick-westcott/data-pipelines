@@ -23,3 +23,4 @@
 2024-04-28 bump deps
 2024-05-02 wip 2
 2024-05-03 readme
+2024-05-09 small perf pass
