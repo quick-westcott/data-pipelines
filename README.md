@@ -23,3 +23,4 @@
 2024-04-17 add tests
 2024-04-18 cleanup dead code
 2024-05-13 docs
+2024-05-14 handle empty response
