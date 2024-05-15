@@ -24,3 +24,4 @@
 2024-05-02 wip 2
 2024-05-03 readme
 2024-05-09 small perf pass
+2024-05-15 add retry on 429
