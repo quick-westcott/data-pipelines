@@ -27,3 +27,4 @@
 2024-05-15 add retry on 429
 2024-05-15 pagination fix
 2024-05-15 refactor parser
+2024-05-15 typeshed
