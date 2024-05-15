@@ -26,3 +26,4 @@
 2024-05-09 small perf pass
 2024-05-15 add retry on 429
 2024-05-15 pagination fix
+2024-05-15 refactor parser
