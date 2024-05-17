@@ -25,3 +25,4 @@
 2024-05-13 migration
 2024-05-15 bump deps
 2024-05-16 cleanup dead code
+2024-05-17 split the fetcher out
