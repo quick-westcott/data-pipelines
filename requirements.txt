@@ -25,3 +25,4 @@
 2024-05-15 wip 2
 2024-05-16 add retry on 429
 2024-05-16 metrics
+2024-05-18 handle empty response
