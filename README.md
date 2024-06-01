@@ -28,3 +28,4 @@
 2024-05-15 add retry on 429
 2024-05-18 lint
 2024-05-24 pagination fix
+2024-06-01 typo
