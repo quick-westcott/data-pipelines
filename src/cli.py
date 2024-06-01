@@ -27,3 +27,4 @@
 2024-05-16 cleanup dead code
 2024-05-17 split the fetcher out
 2024-05-18 drop unused import
+2024-06-01 typeshed
