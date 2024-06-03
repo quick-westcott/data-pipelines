@@ -29,3 +29,4 @@
 2024-05-15 refactor parser
 2024-05-15 typeshed
 2024-06-01 add retry on 429
+2024-06-03 guard against None
