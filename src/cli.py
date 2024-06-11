@@ -29,3 +29,4 @@
 2024-05-18 drop unused import
 2024-06-01 typeshed
 2024-06-08 wip
+2024-06-11 bump deps
