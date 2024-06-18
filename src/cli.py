@@ -31,3 +31,4 @@
 2024-06-08 wip
 2024-06-11 bump deps
 2024-06-18 hotfix
+2024-06-18 small perf pass
