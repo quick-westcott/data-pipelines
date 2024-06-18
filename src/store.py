@@ -25,3 +25,4 @@
 2024-06-03 migration
 2024-06-17 fix timezone bug
 2024-06-18 backoff on failure
+2024-06-18 refactor parser
