@@ -28,3 +28,4 @@
 2024-05-24 fix timezone bug
 2024-05-27 reduce noise
 2024-06-01 log the raw payload
+2024-06-18 guard against None
