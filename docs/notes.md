@@ -32,3 +32,4 @@
 2024-06-03 guard against None
 2024-06-11 fix timezone bug
 2024-06-12 cache the lookups
+2024-07-20 typo
