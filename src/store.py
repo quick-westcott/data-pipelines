@@ -26,3 +26,4 @@
 2024-06-17 fix timezone bug
 2024-06-18 backoff on failure
 2024-06-18 refactor parser
+2024-09-05 revert
