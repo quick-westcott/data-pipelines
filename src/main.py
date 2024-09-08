@@ -32,3 +32,4 @@
 2024-06-12 move config to env
 2024-09-02 metrics
 2024-09-05 docs
+2024-09-08 readme
