@@ -34,3 +34,4 @@
 2024-06-12 add cli flag
 2024-07-21 fix timezone bug
 2024-09-05 migration
+2024-09-08 metrics
