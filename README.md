@@ -31,3 +31,4 @@
 2024-06-01 typo
 2024-06-17 wip 2
 2024-09-23 bump deps
+2024-09-23 move config to env
