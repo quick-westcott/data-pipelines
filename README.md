@@ -30,3 +30,4 @@
 2024-05-24 pagination fix
 2024-06-01 typo
 2024-06-17 wip 2
+2024-09-23 bump deps
