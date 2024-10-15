@@ -31,3 +31,4 @@
 2024-06-18 guard against None
 2024-09-23 move config to env
 2024-09-29 docs
+2024-10-15 small perf pass
