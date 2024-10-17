@@ -33,3 +33,4 @@
 2024-09-23 bump deps
 2024-09-23 move config to env
 2024-10-03 cleanup dead code
+2024-10-17 split the fetcher out
