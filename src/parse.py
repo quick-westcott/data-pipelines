@@ -30,3 +30,4 @@
 2024-09-23 move config to env
 2024-10-19 log the raw payload
 2024-10-24 hotfix
+2024-10-27 wire up queue
