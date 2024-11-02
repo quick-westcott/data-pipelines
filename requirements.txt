@@ -38,3 +38,4 @@
 2024-10-19 add cli flag
 2024-10-31 split the fetcher out
 2024-10-31 backoff on failure
+2024-11-02 add retry on 429
