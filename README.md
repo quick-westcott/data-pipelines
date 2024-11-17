@@ -36,3 +36,4 @@
 2024-10-17 split the fetcher out
 2024-10-19 bump deps
 2024-11-02 hotfix
+2024-11-17 pagination fix
