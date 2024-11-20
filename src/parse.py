@@ -32,3 +32,4 @@
 2024-10-24 hotfix
 2024-10-27 wire up queue
 2024-11-17 metrics
+2024-11-20 guard against None
