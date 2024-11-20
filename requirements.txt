@@ -42,3 +42,4 @@
 2024-11-10 wip 2
 2024-11-13 typo
 2024-11-17 split the fetcher out
+2024-11-20 add retry on 429
