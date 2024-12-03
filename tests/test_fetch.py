@@ -37,3 +37,4 @@
 2024-11-17 reduce noise
 2024-11-20 cache the lookups
 2024-11-21 revert
+2024-12-03 readme
