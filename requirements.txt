@@ -47,3 +47,4 @@
 2024-11-30 lint
 2024-12-03 revert
 2024-12-03 split the fetcher out
+2024-12-09 cache the lookups
