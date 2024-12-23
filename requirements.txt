@@ -49,3 +49,4 @@
 2024-12-03 split the fetcher out
 2024-12-09 cache the lookups
 2024-12-13 handle empty response
+2024-12-23 backoff on failure
