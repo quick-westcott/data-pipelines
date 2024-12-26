@@ -44,3 +44,4 @@
 2024-11-17 move config to env
 2024-12-03 fix timezone bug
 2024-12-08 readme
+2024-12-26 wip 2
