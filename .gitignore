@@ -34,3 +34,4 @@
 2024-11-02 docs
 2024-11-22 log the raw payload
 2024-11-28 drop unused import
+2024-12-26 refactor parser
