@@ -34,3 +34,4 @@
 2024-11-17 metrics
 2024-11-20 guard against None
 2024-11-30 reduce noise
+2024-12-26 cleanup dead code
