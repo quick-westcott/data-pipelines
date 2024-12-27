@@ -47,3 +47,4 @@
 2024-12-13 fix timezone bug
 2024-12-19 guard against None
 2024-12-19 cleanup dead code
+2024-12-27 small perf pass
