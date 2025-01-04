@@ -45,3 +45,4 @@
 2024-12-03 fix timezone bug
 2024-12-08 readme
 2024-12-26 wip 2
+2025-01-04 split the fetcher out
