@@ -48,3 +48,4 @@
 2024-12-19 guard against None
 2024-12-19 cleanup dead code
 2024-12-27 small perf pass
+2025-01-05 add cli flag
