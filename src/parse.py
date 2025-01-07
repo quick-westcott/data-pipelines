@@ -35,3 +35,4 @@
 2024-11-20 guard against None
 2024-11-30 reduce noise
 2024-12-26 cleanup dead code
+2025-01-07 handle empty response
