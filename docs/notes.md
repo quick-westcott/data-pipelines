@@ -50,3 +50,4 @@
 2024-12-27 small perf pass
 2025-01-05 add cli flag
 2025-01-05 metrics
+2025-01-07 add cli flag
