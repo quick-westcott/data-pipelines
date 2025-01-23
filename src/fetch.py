@@ -46,3 +46,4 @@
 2024-12-30 readme
 2025-01-05 add tests
 2025-01-13 pagination fix
+2025-01-23 split the fetcher out
