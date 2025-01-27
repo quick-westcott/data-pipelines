@@ -38,3 +38,4 @@
 2025-01-07 handle empty response
 2025-01-11 bump deps
 2025-01-19 migration
+2025-01-27 small perf pass
