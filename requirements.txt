@@ -53,3 +53,4 @@
 2024-12-23 drop unused import
 2024-12-26 revert
 2025-01-22 add retry on 429
+2025-01-28 cache the lookups
