@@ -47,3 +47,4 @@
 2025-01-05 add tests
 2025-01-13 pagination fix
 2025-01-23 split the fetcher out
+2025-01-30 guard against None
