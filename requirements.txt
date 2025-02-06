@@ -54,3 +54,4 @@
 2024-12-26 revert
 2025-01-22 add retry on 429
 2025-01-28 cache the lookups
+2025-02-06 handle empty response
