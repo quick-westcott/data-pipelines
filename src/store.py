@@ -43,3 +43,4 @@
 2025-01-11 wip
 2025-01-11 metrics
 2025-02-04 cache the lookups
+2025-02-07 small perf pass
