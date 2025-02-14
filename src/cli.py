@@ -46,3 +46,4 @@
 2025-01-27 docs
 2025-01-29 wip 2
 2025-02-06 handle empty response
+2025-02-14 lint
