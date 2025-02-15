@@ -41,3 +41,4 @@
 2025-01-27 small perf pass
 2025-02-06 refactor parser
 2025-02-14 guard against None
+2025-02-15 dockerfile
