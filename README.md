@@ -48,3 +48,4 @@
 2025-01-18 cleanup dead code
 2025-01-29 reduce noise
 2025-02-07 handle empty response
+2025-02-20 move config to env
