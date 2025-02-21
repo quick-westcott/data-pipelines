@@ -48,3 +48,4 @@
 2025-01-04 split the fetcher out
 2025-01-27 wip
 2025-02-21 refactor parser
+2025-02-21 add cli flag
