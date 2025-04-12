@@ -48,3 +48,4 @@
 2025-02-15 bump deps
 2025-02-17 migration
 2025-04-12 handle empty response
+2025-04-12 lint
