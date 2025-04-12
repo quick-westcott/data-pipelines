@@ -50,3 +50,4 @@
 2025-02-21 refactor parser
 2025-02-21 add cli flag
 2025-04-09 add tests
+2025-04-12 docs
