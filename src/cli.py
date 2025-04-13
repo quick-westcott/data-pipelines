@@ -47,3 +47,4 @@
 2025-01-29 wip 2
 2025-02-06 handle empty response
 2025-02-14 lint
+2025-04-13 refactor parser
