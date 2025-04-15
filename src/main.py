@@ -51,3 +51,4 @@
 2025-02-21 add cli flag
 2025-04-09 add tests
 2025-04-12 docs
+2025-04-15 typo
