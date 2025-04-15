@@ -44,3 +44,4 @@
 2025-02-15 dockerfile
 2025-02-17 reduce noise
 2025-04-14 hotfix
+2025-04-15 move config to env
