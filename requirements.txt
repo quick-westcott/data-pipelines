@@ -63,3 +63,4 @@
 2025-04-28 dockerfile
 2025-04-28 handle empty response
 2025-05-06 add cli flag
+2025-05-07 cache the lookups
