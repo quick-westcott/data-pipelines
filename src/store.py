@@ -52,3 +52,4 @@
 2025-04-12 move config to env
 2025-04-23 drop unused import
 2025-05-07 readme
+2025-05-13 handle empty response
