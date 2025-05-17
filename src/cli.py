@@ -53,3 +53,4 @@
 2025-05-11 pagination fix
 2025-05-14 readme
 2025-05-14 guard against None
+2025-05-17 move config to env
