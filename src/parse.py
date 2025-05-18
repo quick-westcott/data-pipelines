@@ -48,3 +48,4 @@
 2025-04-20 cleanup dead code
 2025-05-10 refactor parser
 2025-05-11 add cli flag
+2025-05-18 guard against None
