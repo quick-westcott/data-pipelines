@@ -55,3 +55,4 @@
 2025-05-06 small perf pass
 2025-05-18 fix timezone bug
 2025-05-21 bump deps
+2025-05-22 split the fetcher out
