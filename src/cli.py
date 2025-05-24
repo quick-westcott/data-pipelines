@@ -55,3 +55,4 @@
 2025-05-14 guard against None
 2025-05-17 move config to env
 2025-05-18 docs
+2025-05-24 guard against None
