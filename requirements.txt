@@ -65,3 +65,4 @@
 2025-05-06 add cli flag
 2025-05-07 cache the lookups
 2025-05-17 typeshed
+2025-05-25 drop unused import
