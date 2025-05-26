@@ -50,3 +50,4 @@
 2025-05-11 add cli flag
 2025-05-18 guard against None
 2025-05-19 typo
+2025-05-26 docs
