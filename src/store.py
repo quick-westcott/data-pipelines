@@ -56,3 +56,4 @@
 2025-05-17 add cli flag
 2025-05-19 readme
 2025-05-20 refactor parser
+2025-05-26 refactor parser
