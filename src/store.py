@@ -57,3 +57,4 @@
 2025-05-19 readme
 2025-05-20 refactor parser
 2025-05-26 refactor parser
+2025-06-06 backoff on failure
