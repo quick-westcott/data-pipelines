@@ -57,3 +57,4 @@
 2025-05-21 bump deps
 2025-05-22 split the fetcher out
 2025-06-16 fix timezone bug
+2025-06-16 migration
