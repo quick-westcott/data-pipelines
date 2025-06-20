@@ -58,3 +58,4 @@
 2025-05-22 split the fetcher out
 2025-06-16 fix timezone bug
 2025-06-16 migration
+2025-06-20 refactor parser
