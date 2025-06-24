@@ -59,3 +59,4 @@
 2025-05-26 refactor parser
 2025-06-06 backoff on failure
 2025-06-09 refactor parser
+2025-06-24 typeshed
