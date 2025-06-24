@@ -61,3 +61,4 @@
 2025-05-13 docs
 2025-06-23 bump deps
 2025-06-24 refactor parser
+2025-06-24 migration
