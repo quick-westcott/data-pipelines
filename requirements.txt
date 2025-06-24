@@ -69,3 +69,4 @@
 2025-06-04 move config to env
 2025-06-23 wip 2
 2025-06-23 docs
+2025-06-24 cleanup dead code
