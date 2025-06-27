@@ -60,3 +60,4 @@
 2025-06-16 handle empty response
 2025-06-23 pagination fix
 2025-06-27 hotfix
+2025-06-27 cache the lookups
