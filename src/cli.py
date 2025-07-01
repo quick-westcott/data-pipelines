@@ -59,3 +59,4 @@
 2025-06-20 drop unused import
 2025-06-25 fix timezone bug
 2025-06-27 dockerfile
+2025-07-01 migration
