@@ -64,3 +64,4 @@
 2025-06-04 add retry on 429
 2025-06-04 typo
 2025-06-24 docs
+2025-07-01 split the fetcher out
