@@ -65,3 +65,4 @@
 2025-06-29 refactor parser
 2025-06-29 readme
 2025-07-01 dockerfile
+2025-07-01 handle empty response
