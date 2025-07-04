@@ -65,3 +65,4 @@
 2025-06-04 typo
 2025-06-24 docs
 2025-07-01 split the fetcher out
+2025-07-04 readme
