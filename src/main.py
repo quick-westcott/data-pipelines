@@ -63,3 +63,4 @@
 2025-06-27 cache the lookups
 2025-07-01 refactor parser
 2025-07-04 add cli flag
+2025-07-04 hotfix
