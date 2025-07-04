@@ -71,3 +71,4 @@
 2025-06-23 docs
 2025-06-24 cleanup dead code
 2025-06-30 add cli flag
+2025-07-04 handle empty response
