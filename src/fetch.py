@@ -67,3 +67,4 @@
 2025-07-01 dockerfile
 2025-07-01 handle empty response
 2025-07-02 revert
+2025-07-14 typeshed
