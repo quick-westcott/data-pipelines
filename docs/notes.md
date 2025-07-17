@@ -68,3 +68,4 @@
 2025-07-01 log the raw payload
 2025-07-02 typeshed
 2025-07-14 typo
+2025-07-17 refactor parser
