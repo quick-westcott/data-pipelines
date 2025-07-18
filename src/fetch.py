@@ -69,3 +69,4 @@
 2025-07-02 revert
 2025-07-14 typeshed
 2025-07-17 dockerfile
+2025-07-18 backoff on failure
