@@ -53,3 +53,4 @@
 2025-05-26 docs
 2025-06-14 metrics
 2025-06-21 hotfix
+2025-07-22 backoff on failure
