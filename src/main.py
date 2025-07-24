@@ -67,3 +67,4 @@
 2025-07-08 migration
 2025-07-19 reduce noise
 2025-07-22 readme
+2025-07-24 backoff on failure
