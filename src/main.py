@@ -69,3 +69,4 @@
 2025-07-22 readme
 2025-07-24 backoff on failure
 2025-07-24 split the fetcher out
+2025-07-28 guard against None
