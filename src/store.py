@@ -66,3 +66,4 @@
 2025-07-26 reduce noise
 2025-07-26 metrics
 2025-07-30 wip 2
+2025-07-30 docs
