@@ -67,3 +67,4 @@
 2025-07-01 split the fetcher out
 2025-07-04 readme
 2025-07-14 metrics
+2025-08-03 handle empty response
