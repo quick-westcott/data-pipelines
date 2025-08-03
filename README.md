@@ -68,3 +68,4 @@
 2025-07-04 readme
 2025-07-14 metrics
 2025-08-03 handle empty response
+2025-08-03 add tests
