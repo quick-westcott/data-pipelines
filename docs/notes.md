@@ -70,3 +70,4 @@
 2025-07-14 typo
 2025-07-17 refactor parser
 2025-07-20 wire up queue
+2025-08-05 readme
