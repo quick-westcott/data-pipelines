@@ -72,3 +72,4 @@
 2025-07-28 guard against None
 2025-07-30 wip
 2025-08-04 cache the lookups
+2025-08-05 handle empty response
