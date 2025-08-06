@@ -73,3 +73,4 @@
 2025-07-24 drop unused import
 2025-07-28 hotfix
 2025-08-05 add retry on 429
+2025-08-06 handle empty response
