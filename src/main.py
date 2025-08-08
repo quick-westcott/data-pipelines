@@ -73,3 +73,4 @@
 2025-07-30 wip
 2025-08-04 cache the lookups
 2025-08-05 handle empty response
+2025-08-08 metrics
