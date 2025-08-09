@@ -57,3 +57,4 @@
 2025-07-28 cleanup dead code
 2025-08-03 docs
 2025-08-03 dockerfile
+2025-08-09 add retry on 429
