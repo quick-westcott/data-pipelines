@@ -58,3 +58,4 @@
 2025-08-08 reduce noise
 2025-08-11 move config to env
 2025-08-13 cleanup dead code
+2025-08-14 wire up queue
