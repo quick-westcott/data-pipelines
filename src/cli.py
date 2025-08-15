@@ -72,3 +72,4 @@
 2025-08-06 fix timezone bug
 2025-08-13 add tests
 2025-08-13 guard against None
+2025-08-15 readme
