@@ -77,3 +77,4 @@
 2025-08-08 add cli flag
 2025-08-08 move config to env
 2025-08-09 cache the lookups
+2025-08-16 move config to env
