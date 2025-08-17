@@ -73,3 +73,4 @@
 2025-08-13 add tests
 2025-08-13 guard against None
 2025-08-15 readme
+2025-08-17 wire up queue
