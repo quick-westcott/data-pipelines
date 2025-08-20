@@ -60,3 +60,4 @@
 2025-08-09 add retry on 429
 2025-08-13 wip 2
 2025-08-14 hotfix
+2025-08-20 guard against None
