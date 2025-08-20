@@ -75,3 +75,4 @@
 2025-08-13 typo
 2025-08-14 refactor parser
 2025-08-16 readme
+2025-08-20 backoff on failure
