@@ -75,3 +75,4 @@
 2025-08-16 hotfix
 2025-08-17 wip 2
 2025-08-20 small perf pass
+2025-08-24 cleanup dead code
