@@ -83,3 +83,4 @@
 2025-08-14 wip 2
 2025-08-15 drop unused import
 2025-08-22 migration
+2025-08-25 move config to env
