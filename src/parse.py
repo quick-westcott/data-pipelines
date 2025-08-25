@@ -61,3 +61,4 @@
 2025-08-13 wip 2
 2025-08-14 hotfix
 2025-08-20 guard against None
+2025-08-25 lint
