@@ -79,3 +79,4 @@
 2025-08-09 cache the lookups
 2025-08-16 move config to env
 2025-08-16 backoff on failure
+2025-08-27 typeshed
