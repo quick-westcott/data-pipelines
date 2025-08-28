@@ -77,3 +77,4 @@
 2025-08-16 small perf pass
 2025-08-16 typo
 2025-08-22 lint
+2025-08-28 backoff on failure
