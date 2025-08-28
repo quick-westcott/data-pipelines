@@ -62,3 +62,4 @@
 2025-08-15 guard against None
 2025-08-16 dockerfile
 2025-08-22 drop unused import
+2025-08-28 metrics
