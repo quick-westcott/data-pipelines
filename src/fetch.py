@@ -82,3 +82,4 @@
 2025-08-27 typeshed
 2025-09-03 typo
 2025-09-03 pagination fix
+2025-09-08 backoff on failure
