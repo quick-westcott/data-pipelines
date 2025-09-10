@@ -76,3 +76,4 @@
 2025-09-03 small perf pass
 2025-09-06 move config to env
 2025-09-07 lint
+2025-09-10 add retry on 429
