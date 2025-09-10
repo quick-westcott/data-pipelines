@@ -81,3 +81,4 @@
 2025-08-27 wip
 2025-08-29 refactor parser
 2025-09-03 reduce noise
+2025-09-10 dockerfile
