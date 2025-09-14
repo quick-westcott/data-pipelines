@@ -82,3 +82,4 @@
 2025-08-29 refactor parser
 2025-09-03 reduce noise
 2025-09-10 dockerfile
+2025-09-14 typo
