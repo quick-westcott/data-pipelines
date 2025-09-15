@@ -78,3 +78,4 @@
 2025-09-07 lint
 2025-09-10 add retry on 429
 2025-09-10 fix timezone bug
+2025-09-15 small perf pass
