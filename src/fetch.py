@@ -88,3 +88,4 @@
 2025-09-11 reduce noise
 2025-09-13 dockerfile
 2025-09-16 pagination fix
+2025-09-16 hotfix
