@@ -67,3 +67,4 @@
 2025-08-27 wip
 2025-09-03 cache the lookups
 2025-09-16 drop unused import
+2025-09-16 typeshed
