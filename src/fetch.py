@@ -89,3 +89,4 @@
 2025-09-13 dockerfile
 2025-09-16 pagination fix
 2025-09-16 hotfix
+2025-09-16 metrics
