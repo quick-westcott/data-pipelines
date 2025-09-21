@@ -93,3 +93,4 @@
 2025-09-16 add retry on 429
 2025-09-16 log the raw payload
 2025-09-18 reduce noise
+2025-09-21 readme
