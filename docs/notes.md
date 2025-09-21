@@ -81,3 +81,4 @@
 2025-09-05 lint
 2025-09-10 pagination fix
 2025-09-18 typo
+2025-09-21 add retry on 429
