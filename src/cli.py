@@ -82,3 +82,4 @@
 2025-09-11 migration
 2025-09-16 log the raw payload
 2025-09-22 bump deps
+2025-09-23 readme
