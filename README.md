@@ -81,3 +81,4 @@
 2025-09-15 small perf pass
 2025-09-23 hotfix
 2025-09-23 cleanup dead code
+2025-09-23 backoff on failure
