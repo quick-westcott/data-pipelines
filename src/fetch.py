@@ -94,3 +94,4 @@
 2025-09-16 log the raw payload
 2025-09-18 reduce noise
 2025-09-21 readme
+2025-09-23 cleanup dead code
