@@ -96,3 +96,4 @@
 2025-09-21 readme
 2025-09-23 cleanup dead code
 2025-09-24 wip
+2025-09-24 cache the lookups
