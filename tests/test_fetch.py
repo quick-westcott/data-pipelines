@@ -84,3 +84,4 @@
 2025-09-13 dockerfile
 2025-09-16 wip 2
 2025-09-23 add cli flag
+2025-09-26 log the raw payload
