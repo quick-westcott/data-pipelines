@@ -81,3 +81,4 @@
 2025-09-22 cache the lookups
 2025-09-23 fix timezone bug
 2025-09-26 wire up queue
+2025-09-30 metrics
