@@ -82,3 +82,4 @@
 2025-09-10 pagination fix
 2025-09-18 typo
 2025-09-21 add retry on 429
+2025-10-01 typeshed
