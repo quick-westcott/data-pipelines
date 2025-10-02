@@ -84,3 +84,4 @@
 2025-09-23 backoff on failure
 2025-09-24 guard against None
 2025-09-25 backoff on failure
+2025-10-02 cache the lookups
