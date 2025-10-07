@@ -87,3 +87,4 @@
 2025-10-02 cache the lookups
 2025-10-07 typeshed
 2025-10-07 reduce noise
+2025-10-07 guard against None
