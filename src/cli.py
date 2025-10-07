@@ -86,3 +86,4 @@
 2025-10-01 wip
 2025-10-05 drop unused import
 2025-10-07 backoff on failure
+2025-10-07 docs
