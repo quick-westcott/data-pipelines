@@ -87,3 +87,4 @@
 2025-09-26 log the raw payload
 2025-10-01 typeshed
 2025-10-07 add tests
+2025-10-09 small perf pass
