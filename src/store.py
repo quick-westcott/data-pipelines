@@ -82,3 +82,4 @@
 2025-09-23 fix timezone bug
 2025-09-26 wire up queue
 2025-09-30 metrics
+2025-10-24 add tests
