@@ -83,3 +83,4 @@
 2025-09-26 wire up queue
 2025-09-30 metrics
 2025-10-24 add tests
+2025-10-28 cleanup dead code
