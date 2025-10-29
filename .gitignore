@@ -80,3 +80,4 @@
 2025-10-18 log the raw payload
 2025-10-26 lint
 2025-10-26 drop unused import
+2025-10-29 cleanup dead code
