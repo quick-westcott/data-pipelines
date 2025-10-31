@@ -90,3 +90,4 @@
 2025-10-24 dockerfile
 2025-10-24 drop unused import
 2025-10-29 hotfix
+2025-10-31 refactor parser
