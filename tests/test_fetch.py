@@ -89,3 +89,4 @@
 2025-10-07 add tests
 2025-10-09 small perf pass
 2025-10-22 readme
+2025-10-31 readme
