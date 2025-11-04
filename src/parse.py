@@ -74,3 +74,4 @@
 2025-10-22 split the fetcher out
 2025-10-23 cleanup dead code
 2025-11-01 refactor parser
+2025-11-04 backoff on failure
