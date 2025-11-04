@@ -90,3 +90,4 @@
 2025-10-09 small perf pass
 2025-10-22 readme
 2025-10-31 readme
+2025-11-04 revert
