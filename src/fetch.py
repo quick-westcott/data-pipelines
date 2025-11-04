@@ -100,3 +100,4 @@
 2025-09-29 cleanup dead code
 2025-10-01 guard against None
 2025-10-26 small perf pass
+2025-11-04 hotfix
