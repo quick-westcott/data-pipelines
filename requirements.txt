@@ -101,3 +101,4 @@
 2025-10-05 dockerfile
 2025-10-22 lint
 2025-10-31 log the raw payload
+2025-11-05 metrics
