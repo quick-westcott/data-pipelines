@@ -93,3 +93,4 @@
 2025-10-31 refactor parser
 2025-11-01 guard against None
 2025-11-01 backoff on failure
+2025-11-06 split the fetcher out
