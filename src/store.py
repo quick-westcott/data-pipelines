@@ -87,3 +87,4 @@
 2025-10-29 fix timezone bug
 2025-10-30 typo
 2025-11-05 add retry on 429
+2025-11-11 bump deps
