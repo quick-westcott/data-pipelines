@@ -88,3 +88,4 @@
 2025-10-30 typo
 2025-11-05 add retry on 429
 2025-11-11 bump deps
+2025-11-17 add cli flag
