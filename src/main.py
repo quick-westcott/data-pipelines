@@ -95,3 +95,4 @@
 2025-10-26 readme
 2025-11-06 log the raw payload
 2025-11-16 typo
+2025-11-20 cache the lookups
