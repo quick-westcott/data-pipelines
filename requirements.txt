@@ -104,3 +104,4 @@
 2025-11-05 metrics
 2025-11-19 cleanup dead code
 2025-11-19 wip 2
+2025-11-20 add tests
