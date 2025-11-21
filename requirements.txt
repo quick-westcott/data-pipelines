@@ -105,3 +105,4 @@
 2025-11-19 cleanup dead code
 2025-11-19 wip 2
 2025-11-20 add tests
+2025-11-21 guard against None
