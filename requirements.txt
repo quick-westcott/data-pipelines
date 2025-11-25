@@ -106,3 +106,4 @@
 2025-11-19 wip 2
 2025-11-20 add tests
 2025-11-21 guard against None
+2025-11-25 reduce noise
