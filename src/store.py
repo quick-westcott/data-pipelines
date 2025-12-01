@@ -89,3 +89,4 @@
 2025-11-05 add retry on 429
 2025-11-11 bump deps
 2025-11-17 add cli flag
+2025-12-01 handle empty response
