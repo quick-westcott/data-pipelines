@@ -91,3 +91,4 @@
 2025-11-17 add cli flag
 2025-12-01 handle empty response
 2025-12-04 add retry on 429
+2025-12-04 add tests
