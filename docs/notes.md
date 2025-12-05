@@ -87,3 +87,4 @@
 2025-11-06 move config to env
 2025-11-17 revert
 2025-12-05 fix timezone bug
+2025-12-05 cache the lookups
