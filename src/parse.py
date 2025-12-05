@@ -79,3 +79,4 @@
 2025-11-05 log the raw payload
 2025-11-07 typo
 2025-11-24 wip 2
+2025-12-05 bump deps
