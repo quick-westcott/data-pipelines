@@ -88,3 +88,4 @@
 2025-11-17 revert
 2025-12-05 fix timezone bug
 2025-12-05 cache the lookups
+2025-12-06 handle empty response
