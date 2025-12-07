@@ -80,3 +80,4 @@
 2025-11-07 typo
 2025-11-24 wip 2
 2025-12-05 bump deps
+2025-12-07 small perf pass
