@@ -104,3 +104,4 @@
 2025-11-11 fix timezone bug
 2025-11-23 add cli flag
 2025-12-04 cleanup dead code
+2025-12-07 bump deps
