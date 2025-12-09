@@ -106,3 +106,4 @@
 2025-12-04 cleanup dead code
 2025-12-07 bump deps
 2025-12-07 cache the lookups
+2025-12-09 log the raw payload
