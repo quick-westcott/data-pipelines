@@ -98,3 +98,4 @@
 2025-11-19 wip
 2025-11-28 typo
 2025-12-01 fix timezone bug
+2025-12-18 readme
