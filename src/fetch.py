@@ -105,3 +105,4 @@
 2025-11-18 bump deps
 2025-12-05 log the raw payload
 2025-12-18 readme
+2025-12-18 move config to env
