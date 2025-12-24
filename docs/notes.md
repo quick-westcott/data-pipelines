@@ -90,3 +90,4 @@
 2025-12-05 cache the lookups
 2025-12-06 handle empty response
 2025-12-16 add retry on 429
+2025-12-24 backoff on failure
