@@ -108,3 +108,4 @@
 2025-12-07 cache the lookups
 2025-12-09 log the raw payload
 2025-12-23 readme
+2025-12-30 small perf pass
