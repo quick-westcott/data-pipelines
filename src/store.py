@@ -93,3 +93,4 @@
 2025-12-04 add retry on 429
 2025-12-04 add tests
 2025-12-23 backoff on failure
+2025-12-30 guard against None
