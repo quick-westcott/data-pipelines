@@ -92,3 +92,4 @@
 2025-12-16 add retry on 429
 2025-12-24 backoff on failure
 2025-12-26 cleanup dead code
+2026-01-05 add tests
