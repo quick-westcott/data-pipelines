@@ -94,3 +94,4 @@
 2025-12-26 cleanup dead code
 2026-01-05 add tests
 2026-01-06 dockerfile
+2026-01-08 add tests
