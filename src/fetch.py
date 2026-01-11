@@ -107,3 +107,4 @@
 2025-12-18 readme
 2025-12-18 move config to env
 2025-12-18 revert
+2026-01-11 typo
