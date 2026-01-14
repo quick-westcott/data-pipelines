@@ -83,3 +83,4 @@
 2025-12-07 small perf pass
 2025-12-18 docs
 2026-01-08 add cli flag
+2026-01-14 handle empty response
