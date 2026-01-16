@@ -109,3 +109,4 @@
 2025-12-18 revert
 2026-01-11 typo
 2026-01-14 wip
+2026-01-16 guard against None
