@@ -113,3 +113,4 @@
 2026-01-05 log the raw payload
 2026-01-08 bump deps
 2026-01-20 move config to env
+2026-01-20 add cli flag
