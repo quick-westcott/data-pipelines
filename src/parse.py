@@ -86,3 +86,4 @@
 2026-01-14 handle empty response
 2026-01-20 docs
 2026-01-21 log the raw payload
+2026-01-22 revert
