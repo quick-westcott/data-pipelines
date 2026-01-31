@@ -113,3 +113,4 @@
 2025-12-18 wip
 2026-01-14 guard against None
 2026-01-22 add tests
+2026-01-31 pagination fix
