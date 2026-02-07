@@ -104,3 +104,4 @@
 2025-12-05 revert
 2025-12-05 typeshed
 2026-01-30 refactor parser
+2026-02-07 cleanup dead code
