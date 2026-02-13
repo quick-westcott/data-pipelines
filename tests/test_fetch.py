@@ -107,3 +107,4 @@
 2026-01-11 revert
 2026-02-11 docs
 2026-02-13 refactor parser
+2026-02-13 pagination fix
