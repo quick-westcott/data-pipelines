@@ -110,3 +110,4 @@
 2026-01-11 typo
 2026-01-14 wip
 2026-01-16 guard against None
+2026-02-15 pagination fix
