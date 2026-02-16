@@ -114,3 +114,4 @@
 2026-01-08 bump deps
 2026-01-20 move config to env
 2026-01-20 add cli flag
+2026-02-16 reduce noise
