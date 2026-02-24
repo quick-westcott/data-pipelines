@@ -105,3 +105,4 @@
 2026-02-18 fix timezone bug
 2026-02-20 docs
 2026-02-24 wire up queue
+2026-02-24 handle empty response
