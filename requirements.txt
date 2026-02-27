@@ -118,3 +118,4 @@
 2026-02-05 dockerfile
 2026-02-08 dockerfile
 2026-02-17 refactor parser
+2026-02-27 split the fetcher out
