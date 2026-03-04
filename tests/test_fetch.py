@@ -111,3 +111,4 @@
 2026-02-18 guard against None
 2026-02-25 add retry on 429
 2026-02-25 add tests
+2026-03-04 cleanup dead code
