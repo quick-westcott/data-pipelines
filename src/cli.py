@@ -106,3 +106,4 @@
 2026-02-20 docs
 2026-02-24 wire up queue
 2026-02-24 handle empty response
+2026-03-05 move config to env
