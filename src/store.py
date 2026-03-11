@@ -102,3 +102,4 @@
 2026-01-31 revert
 2026-02-01 dockerfile
 2026-03-04 docs
+2026-03-11 bump deps
