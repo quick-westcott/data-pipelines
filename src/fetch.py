@@ -112,3 +112,4 @@
 2026-01-16 guard against None
 2026-02-15 pagination fix
 2026-02-24 typo
+2026-03-16 dockerfile
