@@ -104,3 +104,4 @@
 2026-03-04 docs
 2026-03-11 bump deps
 2026-03-19 revert
+2026-03-19 split the fetcher out
