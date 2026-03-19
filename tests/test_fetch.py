@@ -113,3 +113,4 @@
 2026-02-25 add tests
 2026-03-04 cleanup dead code
 2026-03-12 handle empty response
+2026-03-19 split the fetcher out
