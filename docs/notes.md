@@ -99,3 +99,4 @@
 2026-01-23 bump deps
 2026-02-07 cache the lookups
 2026-02-18 handle empty response
+2026-03-22 handle empty response
