@@ -108,3 +108,4 @@
 2026-02-18 wip
 2026-02-27 cache the lookups
 2026-02-28 move config to env
+2026-03-24 add tests
