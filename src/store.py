@@ -107,3 +107,4 @@
 2026-03-19 split the fetcher out
 2026-03-23 reduce noise
 2026-03-26 lint
+2026-03-26 cache the lookups
