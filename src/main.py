@@ -110,3 +110,4 @@
 2026-02-28 move config to env
 2026-03-24 add tests
 2026-03-26 wip
+2026-03-26 reduce noise
