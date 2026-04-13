@@ -99,3 +99,4 @@
 2026-03-22 refactor parser
 2026-03-22 fix timezone bug
 2026-03-23 backoff on failure
+2026-04-13 typo
