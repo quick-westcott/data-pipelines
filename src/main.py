@@ -112,3 +112,4 @@
 2026-03-26 wip
 2026-03-26 reduce noise
 2026-04-03 hotfix
+2026-04-14 move config to env
