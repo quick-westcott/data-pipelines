@@ -114,3 +114,4 @@
 2026-02-24 typo
 2026-03-16 dockerfile
 2026-03-26 fix timezone bug
+2026-04-14 add retry on 429
