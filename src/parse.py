@@ -101,3 +101,4 @@
 2026-03-23 backoff on failure
 2026-04-13 typo
 2026-04-20 guard against None
+2026-04-28 add retry on 429
