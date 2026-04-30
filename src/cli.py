@@ -117,3 +117,4 @@
 2026-04-14 pagination fix
 2026-04-27 wip
 2026-04-29 cache the lookups
+2026-04-30 add tests
