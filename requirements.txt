@@ -125,3 +125,4 @@
 2026-04-28 add cli flag
 2026-04-29 small perf pass
 2026-05-16 typeshed
+2026-05-16 revert
