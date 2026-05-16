@@ -126,3 +126,4 @@
 2026-04-29 small perf pass
 2026-05-16 typeshed
 2026-05-16 revert
+2026-05-16 cache the lookups
