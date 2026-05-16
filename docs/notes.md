@@ -107,3 +107,4 @@
 2026-04-19 split the fetcher out
 2026-04-29 wip
 2026-05-06 refactor parser
+2026-05-16 handle empty response
