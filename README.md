@@ -120,3 +120,4 @@
 2026-04-04 split the fetcher out
 2026-04-27 docs
 2026-05-16 readme
+2026-05-19 cache the lookups
