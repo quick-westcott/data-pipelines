@@ -121,3 +121,4 @@
 2026-04-29 readme
 2026-04-30 revert
 2026-05-16 typo
+2026-06-10 small perf pass
