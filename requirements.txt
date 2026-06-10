@@ -127,3 +127,4 @@
 2026-05-16 typeshed
 2026-05-16 revert
 2026-05-16 cache the lookups
+2026-06-10 revert
