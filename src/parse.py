@@ -102,3 +102,4 @@
 2026-04-13 typo
 2026-04-20 guard against None
 2026-04-28 add retry on 429
+2026-06-14 cache the lookups
