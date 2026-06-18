@@ -120,3 +120,4 @@
 2026-04-14 add tests
 2026-04-20 readme
 2026-06-10 refactor parser
+2026-06-18 handle empty response
