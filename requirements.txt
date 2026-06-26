@@ -129,3 +129,4 @@
 2026-05-16 cache the lookups
 2026-06-10 revert
 2026-06-18 wip 2
+2026-06-26 add retry on 429
