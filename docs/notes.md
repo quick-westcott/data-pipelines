@@ -108,3 +108,4 @@
 2026-04-29 wip
 2026-05-06 refactor parser
 2026-05-16 handle empty response
+2026-06-26 migration
