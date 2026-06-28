@@ -122,3 +122,4 @@
 2026-05-16 readme
 2026-05-19 cache the lookups
 2026-06-18 refactor parser
+2026-06-28 typeshed
