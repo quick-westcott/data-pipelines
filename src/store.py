@@ -113,3 +113,4 @@
 2026-04-09 wire up queue
 2026-06-14 add tests
 2026-06-24 reduce noise
+2026-06-28 cleanup dead code
