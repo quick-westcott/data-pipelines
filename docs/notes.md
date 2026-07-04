@@ -109,3 +109,4 @@
 2026-05-06 refactor parser
 2026-05-16 handle empty response
 2026-06-26 migration
+2026-07-04 hotfix
