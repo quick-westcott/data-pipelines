@@ -122,3 +122,4 @@
 2026-06-10 refactor parser
 2026-06-18 handle empty response
 2026-06-22 log the raw payload
+2026-07-08 reduce noise
