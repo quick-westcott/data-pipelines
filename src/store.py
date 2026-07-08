@@ -114,3 +114,4 @@
 2026-06-14 add tests
 2026-06-24 reduce noise
 2026-06-28 cleanup dead code
+2026-07-08 move config to env
