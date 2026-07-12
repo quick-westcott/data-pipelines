@@ -110,3 +110,4 @@
 2026-05-16 handle empty response
 2026-06-26 migration
 2026-07-04 hotfix
+2026-07-12 migration
