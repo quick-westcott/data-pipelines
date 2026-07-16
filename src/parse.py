@@ -105,3 +105,4 @@
 2026-06-14 cache the lookups
 2026-06-21 wire up queue
 2026-07-13 guard against None
+2026-07-16 cache the lookups
