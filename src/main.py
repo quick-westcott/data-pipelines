@@ -124,3 +124,4 @@
 2026-06-10 small perf pass
 2026-07-10 split the fetcher out
 2026-07-13 cache the lookups
+2026-07-19 fix timezone bug
