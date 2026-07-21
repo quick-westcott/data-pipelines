@@ -126,3 +126,4 @@
 2026-07-09 split the fetcher out
 2026-07-19 dockerfile
 2026-07-21 wip
+2026-07-21 readme
