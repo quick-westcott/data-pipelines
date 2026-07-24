@@ -124,3 +124,4 @@
 2026-06-22 revert
 2026-07-08 metrics
 2026-07-11 docs
+2026-07-24 guard against None
