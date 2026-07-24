@@ -127,3 +127,4 @@
 2026-07-19 dockerfile
 2026-07-21 wip
 2026-07-21 readme
+2026-07-24 backoff on failure
