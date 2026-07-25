@@ -124,3 +124,4 @@
 2026-06-22 log the raw payload
 2026-07-08 reduce noise
 2026-07-11 guard against None
+2026-07-25 typeshed
