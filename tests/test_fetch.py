@@ -125,3 +125,4 @@
 2026-07-08 reduce noise
 2026-07-11 guard against None
 2026-07-25 typeshed
+2026-07-26 add retry on 429
