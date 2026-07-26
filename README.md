@@ -128,3 +128,4 @@
 2026-07-21 wip
 2026-07-21 readme
 2026-07-24 backoff on failure
+2026-07-26 bump deps
