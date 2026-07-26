@@ -107,3 +107,4 @@
 2026-07-13 guard against None
 2026-07-16 cache the lookups
 2026-07-19 add retry on 429
+2026-07-26 reduce noise
