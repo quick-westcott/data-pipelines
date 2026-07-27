@@ -118,3 +118,4 @@
 2026-07-12 add tests
 2026-07-13 reduce noise
 2026-07-21 split the fetcher out
+2026-07-27 pagination fix
