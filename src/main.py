@@ -128,3 +128,4 @@
 2026-07-25 add tests
 2026-07-26 small perf pass
 2026-07-26 wire up queue
+2026-07-28 add cli flag
