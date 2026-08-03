@@ -127,3 +127,4 @@
 2026-07-25 typeshed
 2026-07-26 add retry on 429
 2026-07-28 split the fetcher out
+2026-08-03 add cli flag
