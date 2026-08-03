@@ -116,3 +116,4 @@
 2026-07-28 wip 2
 2026-07-28 pagination fix
 2026-08-03 handle empty response
+2026-08-03 docs
