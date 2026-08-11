@@ -120,3 +120,4 @@
 2026-07-21 split the fetcher out
 2026-07-27 pagination fix
 2026-08-10 docs
+2026-08-11 add retry on 429
