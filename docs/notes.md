@@ -117,3 +117,4 @@
 2026-07-28 pagination fix
 2026-08-03 handle empty response
 2026-08-03 docs
+2026-08-11 add tests
