@@ -121,3 +121,4 @@
 2026-07-27 pagination fix
 2026-08-10 docs
 2026-08-11 add retry on 429
+2026-08-18 metrics
