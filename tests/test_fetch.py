@@ -130,3 +130,4 @@
 2026-08-03 add cli flag
 2026-08-17 log the raw payload
 2026-08-18 lint
+2026-08-22 typeshed
