@@ -124,3 +124,4 @@
 2026-08-10 metrics
 2026-08-21 refactor parser
 2026-08-22 add cli flag
+2026-08-22 add tests
