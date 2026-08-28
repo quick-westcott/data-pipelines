@@ -123,3 +123,4 @@
 2026-08-11 add retry on 429
 2026-08-18 metrics
 2026-08-27 reduce noise
+2026-08-28 bump deps
