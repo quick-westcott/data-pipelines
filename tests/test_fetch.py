@@ -132,3 +132,4 @@
 2026-08-18 lint
 2026-08-22 typeshed
 2026-08-29 typo
+2026-08-31 cleanup dead code
