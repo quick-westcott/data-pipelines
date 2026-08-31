@@ -120,3 +120,4 @@
 2026-08-11 add tests
 2026-08-11 split the fetcher out
 2026-08-25 add tests
+2026-08-31 add cli flag
