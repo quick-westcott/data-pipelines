@@ -126,3 +126,4 @@
 2026-08-22 add cli flag
 2026-08-22 add tests
 2026-08-22 typo
+2026-09-01 move config to env
