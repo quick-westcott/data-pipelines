@@ -124,3 +124,4 @@
 2026-08-18 metrics
 2026-08-27 reduce noise
 2026-08-28 bump deps
+2026-09-01 add tests
