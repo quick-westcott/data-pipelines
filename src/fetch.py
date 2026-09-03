@@ -129,3 +129,4 @@
 2026-09-01 move config to env
 2026-09-02 guard against None
 2026-09-02 docs
+2026-09-03 typo
