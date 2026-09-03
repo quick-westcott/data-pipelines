@@ -125,3 +125,4 @@
 2026-08-27 reduce noise
 2026-08-28 bump deps
 2026-09-01 add tests
+2026-09-03 split the fetcher out
