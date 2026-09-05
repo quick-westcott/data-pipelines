@@ -134,3 +134,4 @@
 2026-08-29 typo
 2026-08-31 cleanup dead code
 2026-09-04 guard against None
+2026-09-05 typeshed
