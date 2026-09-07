@@ -136,3 +136,4 @@
 2026-08-21 docs
 2026-09-05 hotfix
 2026-09-06 wip 2
+2026-09-07 cleanup dead code
