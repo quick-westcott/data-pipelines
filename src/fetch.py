@@ -131,3 +131,4 @@
 2026-09-02 docs
 2026-09-03 typo
 2026-09-03 split the fetcher out
+2026-09-07 guard against None
