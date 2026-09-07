@@ -135,3 +135,4 @@
 2026-08-31 cleanup dead code
 2026-09-04 guard against None
 2026-09-05 typeshed
+2026-09-07 lint
