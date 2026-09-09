@@ -127,3 +127,4 @@
 2026-09-03 migration
 2026-09-05 refactor parser
 2026-09-07 add tests
+2026-09-09 handle empty response
