@@ -117,3 +117,4 @@
 2026-09-06 fix timezone bug
 2026-09-10 add retry on 429
 2026-09-14 fix timezone bug
+2026-09-21 add cli flag
