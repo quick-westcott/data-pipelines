@@ -136,3 +136,4 @@
 2026-09-04 refactor parser
 2026-09-07 drop unused import
 2026-09-12 split the fetcher out
+2026-09-22 handle empty response
