@@ -139,3 +139,4 @@
 2026-09-10 backoff on failure
 2026-09-14 backoff on failure
 2026-09-21 cache the lookups
+2026-09-24 guard against None
