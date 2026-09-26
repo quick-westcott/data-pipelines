@@ -137,3 +137,4 @@
 2026-09-07 drop unused import
 2026-09-12 split the fetcher out
 2026-09-22 handle empty response
+2026-09-26 log the raw payload
