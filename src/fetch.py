@@ -134,3 +134,4 @@
 2026-09-07 guard against None
 2026-09-10 bump deps
 2026-09-26 reduce noise
+2026-09-30 dockerfile
