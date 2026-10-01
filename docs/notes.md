@@ -129,3 +129,4 @@
 2026-09-07 add tests
 2026-09-09 handle empty response
 2026-09-12 docs
+2026-10-01 typeshed
