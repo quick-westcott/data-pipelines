@@ -119,3 +119,4 @@
 2026-09-14 fix timezone bug
 2026-09-21 add cli flag
 2026-09-24 guard against None
+2026-10-03 bump deps
