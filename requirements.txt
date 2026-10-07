@@ -144,3 +144,4 @@
 2026-09-26 handle empty response
 2026-10-02 dockerfile
 2026-10-07 reduce noise
+2026-10-07 add tests
