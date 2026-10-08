@@ -135,3 +135,4 @@
 2026-09-03 docs
 2026-09-03 fix timezone bug
 2026-09-12 move config to env
+2026-10-08 small perf pass
