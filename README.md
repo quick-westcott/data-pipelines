@@ -139,3 +139,4 @@
 2026-09-07 cleanup dead code
 2026-09-11 pagination fix
 2026-09-21 pagination fix
+2026-10-08 fix timezone bug
