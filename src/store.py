@@ -131,3 +131,4 @@
 2026-09-24 reduce noise
 2026-09-25 cleanup dead code
 2026-10-03 migration
+2026-10-08 dockerfile
