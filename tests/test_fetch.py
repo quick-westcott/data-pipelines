@@ -141,3 +141,4 @@
 2026-09-21 cache the lookups
 2026-09-24 guard against None
 2026-09-25 small perf pass
+2026-10-10 revert
