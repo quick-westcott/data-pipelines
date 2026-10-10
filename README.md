@@ -142,3 +142,4 @@
 2026-10-08 fix timezone bug
 2026-10-08 log the raw payload
 2026-10-10 reduce noise
+2026-10-10 readme
