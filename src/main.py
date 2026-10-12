@@ -137,3 +137,4 @@
 2026-09-12 move config to env
 2026-10-08 small perf pass
 2026-10-10 readme
+2026-10-12 log the raw payload
