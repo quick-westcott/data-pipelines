@@ -138,3 +138,4 @@
 2026-10-01 typo
 2026-10-08 dockerfile
 2026-10-08 wire up queue
+2026-10-12 split the fetcher out
