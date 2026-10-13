@@ -139,3 +139,4 @@
 2026-10-08 dockerfile
 2026-10-08 wire up queue
 2026-10-12 split the fetcher out
+2026-10-13 reduce noise
