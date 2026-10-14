@@ -146,3 +146,4 @@
 2026-10-07 reduce noise
 2026-10-07 add tests
 2026-10-08 bump deps
+2026-10-14 readme
