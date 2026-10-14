@@ -142,3 +142,4 @@
 2026-09-30 lint
 2026-10-08 typo
 2026-10-08 wire up queue
+2026-10-14 move config to env
