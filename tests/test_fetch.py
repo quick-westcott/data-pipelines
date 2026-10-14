@@ -143,3 +143,4 @@
 2026-09-25 small perf pass
 2026-10-10 revert
 2026-10-14 pagination fix
+2026-10-14 log the raw payload
