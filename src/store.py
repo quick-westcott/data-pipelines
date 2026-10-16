@@ -133,3 +133,4 @@
 2026-10-03 migration
 2026-10-08 dockerfile
 2026-10-14 backoff on failure
+2026-10-16 guard against None
