@@ -121,3 +121,4 @@
 2026-09-24 guard against None
 2026-10-03 bump deps
 2026-10-04 lint
+2026-10-17 guard against None
