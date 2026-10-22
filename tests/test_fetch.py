@@ -144,3 +144,4 @@
 2026-10-10 revert
 2026-10-14 pagination fix
 2026-10-14 log the raw payload
+2026-10-22 handle empty response
