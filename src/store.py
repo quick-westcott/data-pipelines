@@ -136,3 +136,4 @@
 2026-10-16 guard against None
 2026-10-19 wip 2
 2026-10-23 add retry on 429
+2026-10-25 refactor parser
