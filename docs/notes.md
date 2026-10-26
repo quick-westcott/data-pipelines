@@ -134,3 +134,4 @@
 2026-10-05 typo
 2026-10-13 hotfix
 2026-10-24 bump deps
+2026-10-26 backoff on failure
