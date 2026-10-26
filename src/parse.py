@@ -126,3 +126,4 @@
 2026-10-25 wire up queue
 2026-10-26 wip 2
 2026-10-26 add tests
+2026-10-26 dockerfile
