@@ -124,3 +124,4 @@
 2026-10-17 guard against None
 2026-10-19 dockerfile
 2026-10-25 wire up queue
+2026-10-26 wip 2
