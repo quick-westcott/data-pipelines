@@ -143,3 +143,4 @@
 2026-10-23 cleanup dead code
 2026-10-26 migration
 2026-10-26 drop unused import
+2026-10-26 docs
