@@ -143,3 +143,4 @@
 2026-10-17 typeshed
 2026-10-18 fix timezone bug
 2026-10-24 add tests
+2026-10-27 revert
