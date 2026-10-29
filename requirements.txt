@@ -148,3 +148,4 @@
 2026-10-08 bump deps
 2026-10-14 readme
 2026-10-27 dockerfile
+2026-10-29 pagination fix
