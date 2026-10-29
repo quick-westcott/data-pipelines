@@ -140,3 +140,4 @@
 2026-10-26 wip 2
 2026-10-26 migration
 2026-10-29 add retry on 429
+2026-10-29 add cli flag
