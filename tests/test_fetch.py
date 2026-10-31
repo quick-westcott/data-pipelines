@@ -147,3 +147,4 @@
 2026-10-22 handle empty response
 2026-10-24 wire up queue
 2026-10-29 typeshed
+2026-10-31 small perf pass
