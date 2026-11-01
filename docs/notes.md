@@ -136,3 +136,4 @@
 2026-10-24 bump deps
 2026-10-26 backoff on failure
 2026-10-26 wip
+2026-11-01 guard against None
