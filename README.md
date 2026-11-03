@@ -147,3 +147,4 @@
 2026-10-24 refactor parser
 2026-11-03 move config to env
 2026-11-03 fix timezone bug
+2026-11-03 split the fetcher out
